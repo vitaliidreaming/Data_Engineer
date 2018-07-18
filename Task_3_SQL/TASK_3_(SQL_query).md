@@ -5,7 +5,7 @@
 **a)** SQL code for creating the following table **apps** :
 
 pk | id | title | rating | last_update_date
-- |- |- | - |-
+-|-|-|-|-
 1 | com.facebook.katana | Facebook | 4.0 | 2016-09-12
 2 | com.whatsapp | WhatsApp | 4.5 | 2016-09-11
 3 | com.whatsapp | WhatsApp | 4.4 | 2016-09-12
