@@ -1,6 +1,6 @@
 
 # TASK 3
-### SQL query to find the most recent version of each app.
+#### SQL query to find the most recent version of each app.
 
 **a)** SQL code for creating the following table **apps** :
 
